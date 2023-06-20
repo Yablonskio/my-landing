@@ -485,6 +485,7 @@ body>div {
 .custom-see-img>a {
     text-decoration-line: underline;
     color: #3B61FF;
+    cursor: pointer;
 }
 #see-custom>div:last-child {
     display: flex;
@@ -493,7 +494,6 @@ body>div {
     align-items: center;
     background-color: #F8F8F8;
     position: relative;
-
 }
 #see-custom>div:last-child>text {
     font-size: 24px;
@@ -525,6 +525,7 @@ body>div {
     font-size: 16px;
     line-height: 16px;
     border-radius: 2px;
+    cursor: pointer;
 }
 #see-custom>div:last-child>img {
     position: absolute;
@@ -586,10 +587,6 @@ body>div {
     justify-content: center;
     align-items: center;
     margin-top: 150px;
-
-
-
-
 }
 #your-turn>h1 {
     font-size: 40px;
@@ -603,6 +600,7 @@ body>div {
     color: white;
     background-color: #3B61FF;
     margin-right: 20px;
+    cursor: pointer;
 }
 #your-turn>div>button:last-child {
     width: 130px;
@@ -611,18 +609,9 @@ body>div {
     margin-top: 40px;
     font-size: 16px;
     line-height: 16px;
-
+    cursor: pointer;
 }
-
-
-
-
-
-
-
-
 /* YOUR-TURN */
-
 /* FOOTER */
 #footer {
     width: 100%;
