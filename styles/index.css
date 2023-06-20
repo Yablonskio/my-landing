@@ -12,8 +12,8 @@
 }
 body {
     width: 84.5vw;
-    border-left: 7.7vw solid #8c8c8c;
-    border-right: 7.7vw solid #8c8c8c;
+    padding-left: 7.7vw solid #8c8c8c;
+    padding-right: 7.7vw solid #8c8c8c;
 
 }
 body>div {
